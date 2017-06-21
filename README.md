@@ -1,7 +1,9 @@
 # Regression Suite Framework
 
 nodejs
+
 selenium web driver
+
 jasmine (testing framework) + Karma (test runner) + Sinon.js (Standalone test spies, stubs and mocks for JavaScript)
 
 ## Features
