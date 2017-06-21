@@ -1,10 +1,11 @@
-# Node.js API Starter Kit &nbsp; <a href="https://gitter.im/kriasoft/nodejs-api-starter"><img src="https://img.shields.io/gitter/room/kriasoft/nodejs-api-starter.js.svg" width="102" height="20"></a> <a href="https://github.com/kriasoft/nodejs-api-starter/stargazers"><img src="https://img.shields.io/github/stars/kriasoft/nodejs-api-starter.svg?style=social&label=Star&maxAge=3600" height="20"></a> <a href="https://twitter.com/ReactStarter"><img src="https://img.shields.io/twitter/follow/ReactStarter.svg?style=social&label=Follow&maxAge=3600" height="20"></a>
+# Regression Suite Framework
 
-[Node.js API Starter Kit][nodejskit] is a boilerplate and tooling for authoring **data API**
-backends with [Node.js][node], [JavaScript][js] (via [Babel][babel]) and [GraphQL][gql]. It's
-meant to be paired with a web and/or mobile application project such as [React Starter Kit][rsk].
+nodejs
+selenium web driver
+jasmine (testing framework) + Karma (test runner) + Sinon.js (Standalone test spies, stubs and mocks for JavaScript)
 
 ## Features
+
 
 ## Directory Layout
 
@@ -41,7 +42,9 @@ If you keep the original Git history after clonning this repo, you can always fe
 the recent updates back into your project by running:
 
 git checkout master
+
 git fetch fl.regressionsuite.test
+
 git merge fl.regressionsuite.test/master
 
 
@@ -49,10 +52,6 @@ git merge fl.regressionsuite.test/master
 
 
 ## Support
-
-* [#nodejs-api-starter](https://gitter.im/kriasoft/nodejs-api-starter) on Gitter — Watch announcements, share ideas and feedback
-* [GitHub Issues](https://github.com/kriasoft/nodejs-api-starter/issues) — Check open issues, send bug reports feature requests
-* [@koistya](https://twitter.com/koistya) on [Codementor](https://www.codementor.io/koistya) or [Skype][skype] — Private consulting and customization requests
 
 
 ## License
